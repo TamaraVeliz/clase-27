@@ -1,0 +1,10 @@
+$rojo-claro: #f8877f;
+$margin-large: 30px;
+
+div {
+  background: red;
+  height: 100px;
+  width: 100px;
+  box-shadow: 1px 5px 5px 5px $rojo-claro;
+  margin-top: $margin-large;
+}
